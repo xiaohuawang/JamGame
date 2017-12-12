@@ -3,21 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="/Users/valeryfardeli/AndroidStudioProjects/Jam/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/yangyangyy/.android/build-cache/1d37a6cff497d16f5ca305a0926332dfbb7985c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d3bdb80449f2df3480b6478812e322ee4211ad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/.android/build-cache/546929e25c91c8cb48866c34f46d386cac9fc131/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45925a95883a7c23ca404c94da0a9b56c392a1df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/valeryfardeli/AndroidStudioProjects/Jam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ae4c469995109147f08446019389386e001de1eb/classes.dex" />
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cd9fa63760942967f6b16355d9ec0e099a7c6a83/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/valeryfardeli/AndroidStudioProjects/Jam/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/yangyangyy/.android/build-cache/1d17adec11c8dc63d08db98258bac5518c2117a3/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="0f140feccbf43c7eb818526f9f3a1b7f4559c894">
-        <dex dex="/Users/valeryfardeli/AndroidStudioProjects/Jam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e9a3d3cf6fc10edb5f18ae383f17bc9be81d0669/classes.dex" />
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ceb7f85181da8797bc73fa431a2a4e8c951d2e74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/.android/build-cache/d7ecc9b61b3cd76afc8b14788eb415c21c4019d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f24a16df1c946efc958b4bff5eaa0e8f3394fe50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_603d3ef622c4fcbd525cc87b6994fea584dcece4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/.android/build-cache/8354926eedacf3d2c1ac8a261be555b0b10b3329/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc3db18502732b535ff9c0a9cad239f97f6f5155/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/.android/build-cache/e3d7b17d8f736fa64452b416111270d527139803/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4cc9077298822ceabd20d4e512a2470f6e70ef8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/.android/build-cache/4fbce42f28e0fd673fcf4c28e55e07799c284ca6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a1c1ebab0c040cd1979a1e35856de79296cf4f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/.android/build-cache/7ca254c0588da3ac367df8e6d7f13af8af068cb0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4de9f6af4bc30edf638821be66c48c04444c278f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/.android/build-cache/f6ac5fc887bbca5949e55175d07378b5ae3c856d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cef37f652882bacd5f32f7a3e2a8272a8f5f874a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b650a575ee590e13b54507191f70011ce7135287">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2c8e28c257f021f34856e902c6d2db472cfc0c26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/.android/build-cache/a55ff70c9b0f5059604b9e7259db82ba6fbd1fd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a5b1b9c19a3dc99a33d2386ae8d178bd0ca6fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yangyangyy/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/yangyangyy/Desktop/Android Final/jam/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_457665e355f4aa90b111109db7b093fdb2d92308/classes.dex" />
     </item>
 
 </items>
